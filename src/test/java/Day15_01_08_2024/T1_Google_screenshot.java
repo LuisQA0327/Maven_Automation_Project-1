@@ -16,4 +16,5 @@ public class T1_Google_screenshot extends TestParent {
         ReusableMethods_Loggers.submitMethod(driver, "//*[@name= 'btnK']", logger, "Submit");
         Thread.sleep(1000);
     }//end of test
+    //giancarlo built like the 
 }//end of class
